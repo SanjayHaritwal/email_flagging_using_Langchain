@@ -5,14 +5,14 @@ An automated email flagging system that scans a Gmail inbox for potentially susp
 
 ---
 
-## 🚀 Features
+##  Features
 
-- **🔐 Gmail Integration**: Authenticates and accesses your Gmail inbox using the Gmail API.
-- **🤖 AI-Powered Detection**: Uses GPT-4 to analyze email content for phishing/red flags (urgent tones, suspicious links, mismatched domains).
-- **🏷 Gmail Labeling**: Flags and moves suspicious emails to a `Flagged_Suspicious` label.
-- **💾 Local Storage**: Saves flagged email details as `.txt` files in `flagged_emails/`.
-- **🌐 Streamlit Interface**: Web UI to scan emails, configure scan limits, and display flagged results.
-- **📋 Logging**: Logs errors and processing steps to `email_processing.log`.
+- ** Gmail Integration**: Authenticates and accesses your Gmail inbox using the Gmail API.
+- ** AI-Powered Detection**: Uses GPT-4 to analyze email content for phishing/red flags (urgent tones, suspicious links, mismatched domains).
+- ** Gmail Labeling**: Flags and moves suspicious emails to a `Flagged_Suspicious` label.
+- ** Local Storage**: Saves flagged email details as `.txt` files in `flagged_emails/`.
+- ** Streamlit Interface**: Web UI to scan emails, configure scan limits, and display flagged results.
+- ** Logging**: Logs errors and processing steps to `email_processing.log`.
 
 ---
 
@@ -36,7 +36,7 @@ An automated email flagging system that scans a Gmail inbox for potentially susp
 - `email_processing.log`: Runtime log data
 - `flagged_emails/`: Contains flagged email data
 
-> ⚠️ If any sensitive file was committed accidentally:
+> ⚠ If any sensitive file was committed accidentally:
 > - **Revoke the credentials** from Google Cloud
 > - **Generate new API keys**
 > - **Rotate your OpenAI API key immediately**
