@@ -43,6 +43,7 @@ An automated email flagging system that scans a Gmail inbox for potentially susp
 
 ---
 
+<img src="![Screenshot 2025-07-07 115117](https://github.com/user-attachments/assets/b89935d9-adb0-4547-bd80-dc2cb433bd08)" alt="Screenshot" width="400" height="250"/>
 
 ![Screenshot 2025-07-07 115117](https://github.com/user-attachments/assets/b89935d9-adb0-4547-bd80-dc2cb433bd08)
 
