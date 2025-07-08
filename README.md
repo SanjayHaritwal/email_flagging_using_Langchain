@@ -50,3 +50,10 @@ An automated email flagging system that scans a Gmail inbox for potentially susp
 ```bash
 git clone https://github.com/your-username/email-flagging-system.git
 cd email-flagging-system
+## Results
+![Screenshot 2025-07-07 115117](https://github.com/user-attachments/assets/b89935d9-adb0-4547-bd80-dc2cb433bd08)
+
+
+![Screenshot 2025-07-07 115135](https://github.com/user-attachments/assets/58602a9b-7ed2-456c-b589-91eaaa93dff1)
+
+![Screenshot 2025-07-07 115220](https://github.com/user-attachments/assets/10a8055f-b5e2-43d4-82a9-78eade4dab4d)
