@@ -51,7 +51,7 @@ An automated email flagging system that scans a Gmail inbox for potentially susp
 
 
 
-<img src="https://github.com/user-attachments/assets/10a8055f-b5e2-43d4-82a9-78eade4dab4d" alt="Screenshot 3" width="800"/>
+<img src="https://github.com/user-attachments/assets/10a8055f-b5e2-43d4-82a9-78eade4dab4d" alt="Screenshot 3" width="500"/>
 
 
 
